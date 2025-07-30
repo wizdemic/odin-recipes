@@ -1,2 +1,1 @@
-# odin-recipes
-Sample recipe project
+This project will showcase sample recipes to demonstrate HTML knowledge
